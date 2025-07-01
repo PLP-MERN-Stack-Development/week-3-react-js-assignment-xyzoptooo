@@ -31,7 +31,8 @@ You will:
 - Starter files for your React application:
   - Basic project structure
   - Pre-configured Tailwind CSS
-  - Sample component templates
+  - Sample component templates....
+  - Give it a t
 
 ## Requirements
 
